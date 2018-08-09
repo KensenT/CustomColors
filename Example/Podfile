@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'niceColor_Example' do
+  pod 'niceColor', :path => '../'
+
+  target 'niceColor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
