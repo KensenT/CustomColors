@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: A collection of custom color templates for your projects.
                        DESC
 
-  s.homepage         = 'https://github.com/KensenT/niceColor'
+  s.homepage         = 'https://github.com/KensenT/CustomColors'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'KensenT' => 'kensen.tjoa@gmail.com' }
-  s.source           = { :git => 'https://github.com/KensenT/niceColor.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/KensenT/CustomColors.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
