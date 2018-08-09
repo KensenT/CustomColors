@@ -29,8 +29,8 @@
 
 /* Begin PBXFileReference section */
 		085C47C6EDE5DB05CDEA1F44 /* Pods-niceColor_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-niceColor_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-niceColor_Example/Pods-niceColor_Example.release.xcconfig"; sourceTree = "<group>"; };
-		098B44FAF9BB1167EAE4CB7A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		0B84A76DB669E9343F8FA647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		098B44FAF9BB1167EAE4CB7A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		0B84A76DB669E9343F8FA647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		150A2CF21C1FC654C3E6E168 /* Pods_niceColor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_niceColor_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* niceColor_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = niceColor_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7756492FC7223AEDC03D6786 /* Pods_niceColor_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_niceColor_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF72A6084BF276771650F86E /* Pods-niceColor_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-niceColor_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-niceColor_Example/Pods-niceColor_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D64BDD340A9D97FB45F7E352 /* niceColor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = niceColor.podspec; path = ../niceColor.podspec; sourceTree = "<group>"; };
+		D64BDD340A9D97FB45F7E352 /* niceColor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = niceColor.podspec; path = ../niceColor.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F61CC16C5757C73C1E2BBF07 /* Pods-niceColor_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-niceColor_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-niceColor_Tests/Pods-niceColor_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FAAA9BD2AD652282333ABF58 /* Pods-niceColor_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-niceColor_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-niceColor_Tests/Pods-niceColor_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

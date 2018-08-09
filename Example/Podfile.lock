@@ -1,0 +1,16 @@
+PODS:
+  - niceColor (0.1.0)
+
+DEPENDENCIES:
+  - niceColor (from `../`)
+
+EXTERNAL SOURCES:
+  niceColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  niceColor: cc29ee956d14100ccbc4c23d0bbebdc5a9255724
+
+PODFILE CHECKSUM: 62a4d5824ac4b4374f52b99c7ef7280bc96cf763
+
+COCOAPODS: 1.5.3

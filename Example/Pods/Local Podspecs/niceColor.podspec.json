@@ -1,0 +1,22 @@
+{
+  "name": "niceColor",
+  "version": "0.1.0",
+  "summary": "A short description of niceColor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KensenT/niceColor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KensenT": "kensen.tjoa@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/KensenT/niceColor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "niceColor/Classes/**/*"
+}

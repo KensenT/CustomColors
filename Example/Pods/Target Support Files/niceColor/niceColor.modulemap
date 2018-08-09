@@ -1,0 +1,6 @@
+framework module niceColor {
+  umbrella header "niceColor-umbrella.h"
+
+  export *
+  module * { export * }
+}
